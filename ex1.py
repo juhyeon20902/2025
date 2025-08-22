@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('강주현')
+st.title('강주현.')
