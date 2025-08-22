@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 🌸 앱 꾸미기 (페이지 설정)
-st.set_page_config(page_title="귀여운 약 복용 가이드 💊", page_icon="💖")
+st.set_page_config(page_title="약 복용 가이드 💊", page_icon="💖")
 
 # 약 데이터 (대표적인 약 + 실제 약 이름 + 복용 시점)
 medicine_info = {
